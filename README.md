@@ -28,13 +28,13 @@ cd digit-recognition
 
 **NOTE** - *I have already created the `model.h5` and `model.json`, so this step is not necessary.*
 ```python
-python classifier_generator
+python classifier_generator.py
 ```
 * To test the classifier, run the `perform_recognition.py` script.
 ```python
 python3 perform_recognition.py -i <path to test image>
 ```
-ex -
+ex :
 ```python
 python perform_recognition.py -i Desktop/Deep_learning/numbers/0
 ```
