@@ -19,7 +19,7 @@ This repository contains the following files :
     
 # Usage
     
-* Clone the repository - 
+* Clone the repository :
 ```bash
 git clone https://github.com/Hamza-El-Achouri/digit-recognition.git
 cd digit-recognition
