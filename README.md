@@ -36,6 +36,6 @@ python3 perform_recognition.py -i <path to test image>
 ```
 ex :
 ```python
-python perform_recognition.py -i Desktop/Deep_learning/numbers/0
+python perform_recognition.py -i numbers/0
 ```
      
